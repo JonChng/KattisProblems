@@ -1,36 +1,29 @@
+
+
 string = input()
 
-count = {}
-
-counter = 0
-
-
-sum = 0
+dictionary = {}
+odd = 0
+odd_keys = []
+to_remove = 0
 
 for i in string:
-    if i in count:
-        count[i] += 1
+    if i in dictionary:
+        dictionary[i] += 1
 
     else:
-        count[i] = 1
+        dictionary[i] = 1
 
-possible = True
+for key, value in dictionary.items():
+    if value % 2 != 0:
+        odd += 1
+        odd_keys.append(key)
 
-for i,j in count.items():
-    sum += j
+if len(odd_keys) > 1:
+    print(len(odd_keys) - 1)
 
-for i,j in count.items():
-
-    if sum > 1:
-        
-        if j % 2 != 0:
-
-            j -= 1
-            counter += 1
-            sum -= 1
-
-print(counter)
-
+else:
+    print(0)
 
 
 

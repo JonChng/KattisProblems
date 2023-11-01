@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41c0650-b618-4917-b42f-50e06bf0652d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pergram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickbrownfox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songbook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acmcounting.py" beforeDir="false" afterPath="$PROJECT_DIR$/acmcounting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akcija.py" beforeDir="false" afterPath="$PROJECT_DIR$/akcija.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arationalsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/arationalsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arealchallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/arealchallenge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doublepassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/doublepassword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erasesecurely.py" beforeDir="false" afterPath="$PROJECT_DIR$/erasesecurely.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flyingsafely.py" beforeDir="false" afterPath="$PROJECT_DIR$/flyingsafely.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jewelrybox.py" beforeDir="false" afterPath="$PROJECT_DIR$/jewelrybox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plantingtrees.py" beforeDir="false" afterPath="$PROJECT_DIR$/plantingtrees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radiocommercials.py" beforeDir="false" afterPath="$PROJECT_DIR$/radiocommercials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverserot.py" beforeDir="false" afterPath="$PROJECT_DIR$/reverserot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sodaslurper.py" beforeDir="false" afterPath="$PROJECT_DIR$/sodaslurper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tripletexting.py" beforeDir="false" afterPath="$PROJECT_DIR$/tripletexting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unlockpattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/unlockpattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pergram.py" beforeDir="false" afterPath="$PROJECT_DIR$/pergram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
